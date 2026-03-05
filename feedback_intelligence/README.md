@@ -52,3 +52,19 @@ streamlit run feedback_intelligence/src/dashboard/streamlit_app.py
 ## Demo Video
 
 Watch the project demonstration here: https://youtu.be/bTeMAxmAFnk?feature=shared
+
+### screenshot of dashboard 
+
+## Dashboard Screenshots
+
+### Dashboard View 1
+![Dashboard 1](dashboard1.png)
+
+### Dashboard View 2
+![Dashboard 2](dashboard2.png)
+
+### Dashboard View 3
+![Dashboard 3](dashboard3.png)
+
+### Dashboard View 4
+![Dashboard 4](dashboard4.png)
