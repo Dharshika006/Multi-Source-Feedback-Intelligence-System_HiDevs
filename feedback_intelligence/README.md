@@ -44,3 +44,11 @@ Run dashboard:streamlit run feedback_intelligence/src/dashboard/streamlit_app.py
 - Multi-language sentiment detection
 - Real-time monitoring
 - Automated alerting
+
+run commands :uvicorn feedback_intelligence.main:app --reload
+streamlit run feedback_intelligence/src/dashboard/streamlit_app.py
+
+
+## Demo Video
+
+Watch the project demonstration here: https://youtu.be/bTeMAxmAFnk?feature=shared
