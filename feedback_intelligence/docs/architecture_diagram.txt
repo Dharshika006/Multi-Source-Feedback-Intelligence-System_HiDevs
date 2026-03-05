@@ -1,0 +1,11 @@
+Data Sources
+     ↓
+Ingestion Layer
+     ↓
+Processing Pipeline
+     ↓
+Intelligence Engine
+     ↓
+Actions & Reports
+     ↓
+Business Integration
